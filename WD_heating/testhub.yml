@@ -1,0 +1,75 @@
+    - inlist: inlist_wd_acc_small_dm_header
+      runtime_minutes:   0.24
+      model_number:           85
+      star_age:     2.9999999999999997E-04
+      num_retries:            0
+      log_rel_run_E_err:       -10.6717555516967870
+      steps:           85
+      retries:            0
+      redos:            0
+      solver_calls_made:           85
+      solver_calls_failed:            0
+      solver_iterations:          180
+    - inlist: inlist_wd_acc_small_dm_header
+      runtime_minutes:   0.54
+      model_number:          174
+      star_age:     1.0000000000000000E+00
+      num_retries:            0
+      log_rel_run_E_err:       -10.3605992252329422
+      steps:          174
+      retries:            0
+      redos:            0
+      solver_calls_made:          174
+      solver_calls_failed:            0
+      solver_iterations:          532
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
+    - inlist: inlist_wd_acc_small_dm_header
